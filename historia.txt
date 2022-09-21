@@ -1,3 +1,8 @@
 hola Andry!
 
 Estoy progresando!!
+
+Es la segunda parte de Git, estamos viendo branch, y algunos comandos
+como: git log --stat, git checkout, git status, git add .,
+git commit, etc....
+
