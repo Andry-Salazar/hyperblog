@@ -7,10 +7,26 @@ body {
   padding: 0;
 }
 
+#cabecera {
+  background: white;
+  box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.75);
+  color: gray;
+  font-weight: bold;
+  margin: 0;
+  padding: 0.5em;
+  text-align: left;
+}
+
+#cabecera #tagline {
+  padding: 0 0 1em;
+  font-weight: normal;
+  font-size: 0.8em;
+}
+
 #nav {
   width: 70%;
   padding: 1em;
-  text-align: left;
+  text-align: center;
   border: 1px solid #ddd;
   margin: 0 auto;
 }
