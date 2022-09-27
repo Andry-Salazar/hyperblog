@@ -1,16 +1,16 @@
 body {
   background-color: black;
-  color: antiquewhite;
+  color: black;
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
   margin: 0;
-  padding: 0;
+  padding: 0px;
 }
 
 #cabecera {
-  background: white;
+  background: blue;
   box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.75);
-  color: gray;
+  color: white;
   font-weight: bold;
   font-size: 1.2em;
   margin: 0;
@@ -31,7 +31,7 @@ body {
 
 #nav {
   width: 70%;
-  padding: 1em;
+  background-color: white;
   text-align: center;
   border: 1px solid #ddd;
   margin: 0 auto;
