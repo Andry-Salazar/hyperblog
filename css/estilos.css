@@ -31,7 +31,7 @@ body {
 
 #nav {
   width: 70%;
-  background-color: white;
+  padding: 1em;
   text-align: center;
   border: 1px solid #ddd;
   margin: 0 auto;
@@ -39,4 +39,12 @@ body {
 
 #nav h1 {
   font-size: 20px;
+}
+
+#footer {
+  background: #777;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  padding: 0.3em;
 }
